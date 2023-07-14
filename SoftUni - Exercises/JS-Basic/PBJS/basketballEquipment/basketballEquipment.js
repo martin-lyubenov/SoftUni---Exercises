@@ -9,7 +9,6 @@ function basketballEquipment (input) {
 
     let totalCost = snikersPrice + uniformPrice + ballPrice + accesorriesPrice + annualSubscription;
 
-
     console.log((totalCost).toFixed(2))
 
 }
